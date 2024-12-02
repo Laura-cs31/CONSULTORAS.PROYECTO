@@ -1,0 +1,14 @@
+{
+    "name": "consultoras-backend",
+    "version": "1.0.0",
+    "description": "Proyecto Consultoras S.A.S Backend",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "mongoose": "^6.13.5"
+    },
+    "author": "Laura Alejandra Cubillos",
+    "license": "ISC"
+}
